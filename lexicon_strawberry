@@ -1,5 +1,5 @@
 {
-	"file": "http://vcg.github.io/upset/data/test/test.csv",
+	"file": "https://raw.githubusercontent.com/chiaramedoro/upsetdata/main/lexicon_strawberry",
 	"name": "Strawberry lexicon",
 	"header": 0,
 	"separator": ";",
