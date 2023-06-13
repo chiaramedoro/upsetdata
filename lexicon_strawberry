@@ -1,0 +1,22 @@
+{
+	"file": "http://vcg.github.io/upset/data/test/test.csv",
+	"name": "Strawberry lexicon",
+	"header": 0,
+	"separator": ";",
+	"skip": 0,
+	"meta": [
+		{ "type": "id", "index": 0, "name": "Name" }
+	],
+	"sets": [
+		{ "format": "binary", "start": 2, "end": 19 }
+	]
+}
+Name;Astringent;Banana;Berry;Citrus;Crunchiness;Fermented;Fibrous;Firmness;Floral;Freshness;Fruity;Green;Juiciness;Seedy;Sour;Strawberry;Sweet;TotalFlavour;UntypicalFlavour
+Aprica;1;0;0;0;1;1;1;1;0;1;1;1;1;1;1;1;1;1;1
+Civ1;1;0;0;0;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1
+Civ2;1;1;0;0;1;0;1;1;1;1;1;1;1;1;1;1;1;1;1
+Clery;1;0;1;1;1;1;1;0;1;1;1;0;1;1;1;1;1;1;1
+Joly;1;0;1;1;1;0;1;1;1;1;1;1;1;1;1;1;1;1;1
+Dely;1;0;0;0;1;0;1;0;1;1;1;0;1;1;1;1;1;1;1
+Lycia;1;0;1;1;1;0;1;1;1;1;1;1;1;1;1;1;1;1;1
+Sibilla;1;0;1;1;1;0;1;1;1;1;1;1;1;1;1;1;1;1;0
